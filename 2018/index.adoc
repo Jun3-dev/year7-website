@@ -32,6 +32,7 @@ christine.volk@cgs.act.edu.au
 
 - <<course_overview/course_overview.adoc#,Course Outline>>
 - http://cgs.ist/year7[Year 7 Digital Technologies Workbook^]
+- link:s1assessment/Year%207%20Digital%20Technologies%20-%20Semester%20One%20Grade%20Descriptors.pdf[Semester One Grade Descriptors]
 
 ==== Assessment Tasks
 
