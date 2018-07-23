@@ -22,8 +22,8 @@ lee-anne.gilmore@cgs.act.edu.au
 Ms Lori Gray +
 lori.gray@cgs.act.edu.au
 
-Ms Pip Lindley +
-pip.lindley@cgs.act.edu.au
+Ms Jessie Thearle +
+jessie.thearle@cgs.act.edu.au
 
 Ms Christine Volk +
 christine.volk@cgs.act.edu.au
@@ -31,10 +31,47 @@ christine.volk@cgs.act.edu.au
 ==== Course Documents
 
 - <<course_overview/course_overview.adoc#,Course Outline>>
-- http://cgs.ist/year7[Year 7 Digital Technologies Workbook^]
+- link:s2assessment/Year%207%20Digital%20Technologies%20-%20Semester%20Two%20Grade%20Descriptors.pdf[Semester Two Grade Descriptors]
 - link:s1assessment/Year%207%20Digital%20Technologies%20-%20Semester%20One%20Grade%20Descriptors.pdf[Semester One Grade Descriptors]
 
+=== Resources
+
+===== Semester Two
+
+- https://studio.code.org/s/applab-intro/stage/1/puzzle/1[Intro to App Lab^]
+- https://studio.code.org/projects/applab/new[App Lab Projects]
+- link:s2resources/Year%207%20Digital%20Technologies%20-%20Term%203%20Booklet.pdf[Term 3 Workbook]
+
+===== Semester One
+
+- https://groklearning.com[Grok Learning^]
+- http://cgs.ist/year7[Year 7 Digital Technologies Workbook^]
+
 ==== Assessment Tasks
+
+===== Semester Two
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment: App Design Task*
+.^|Monday 6 August 2018 (Week 3)
+.^|Friday 14 September 2018 (Week 8) by 8:45am
+^.^|50%
+
+.^|*Assignment: App Development Task*
+.^|Monday 6 August 2018 (Week 3)
+.^|Monday 15 November 2018 (Week 5) by 8:45am
+^.^|50%
+
+|===
+
 
 ===== Semester One
 
