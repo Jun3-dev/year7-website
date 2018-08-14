@@ -34,6 +34,11 @@ christine.volk@cgs.act.edu.au
 - link:s2assessment/Year%207%20Digital%20Technologies%20-%20Semester%20Two%20Grade%20Descriptors.pdf[Semester Two Grade Descriptors]
 - link:s1assessment/Year%207%20Digital%20Technologies%20-%20Semester%20One%20Grade%20Descriptors.pdf[Semester One Grade Descriptors]
 
+==== Tutorial Sessions
+
+* Monday 3:30pm to 5pm, SC304
+* Wednesday Lunchtime, SC303
+
 === Resources
 
 ===== Semester Two
