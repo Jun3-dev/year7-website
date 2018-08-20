@@ -83,7 +83,7 @@ christine.volk@cgs.act.edu.au
 
 .^|*link:s2assessment/Year%207%20Digital%20Technologies%20-%20Semester%20Two%20Assessment.pdf[Assignment: App Development (Part 2)]*
 .^|Monday 6 August 2018 (Week 3)
-.^|Monday 15 November 2018 (Week 5) by 8:45am
+.^|Monday 5 November 2018 (Week 4) by 8:45am
 ^.^|50%
 
 |===
