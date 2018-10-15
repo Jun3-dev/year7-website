@@ -48,7 +48,7 @@ christine.volk@cgs.act.edu.au
 
 ====== App Lab
 - https://studio.code.org/s/applab-intro/stage/1/puzzle/1[Intro to App Lab^]
-- https://studio.code.org/projects/applab/new[App Lab Projects^]
+- https://studio.code.org/projects/applab[App Lab Projects^]
 - https://code.org/educate/applab[App Lab Resources^]
 - https://www.youtube.com/watch?time_continue=669&v=tDnoxkOSfQw[Video: Make a simple app^]
 - https://studio.code.org/s/csd4-2017/stage/12/puzzle/1[Digital Design in App Lab^]
