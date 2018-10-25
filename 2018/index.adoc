@@ -45,6 +45,7 @@ christine.volk@cgs.act.edu.au
 
 - link:s2resources/Year%207%20Digital%20Technologies%20-%20Term%203%20Booklet.pdf[Term 3 Workbook]
 - https://drive.google.com/open?id=1b8qjvmYFHfigqfCsddhQvt7omv6qa1JG[Assessment Templates and Examples^]
+- https://studio.code.org/projects/applab/gWWcOJBlzo5Hx8OHAuqXgqXhQ8EUgbD59Ijgj97pmjg[AppLab Example - St Nick's Activity RSVP^]
 
 ====== App Lab
 - https://studio.code.org/s/applab-intro/stage/1/puzzle/1[Intro to App Lab^]
