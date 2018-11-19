@@ -14,7 +14,6 @@ set -e
 # build site with jekyll, by default to `_site' folder
 bundle exec jekyll build
 
-echo "Build complete"
 
 # cleanup
 rm -rf ../year7.cgscomputing.com
@@ -40,6 +39,5 @@ git config user.email "cgscomputing@cgs.act.edu.au"
 git config user.name "CGSComputing"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-
-echo "Commit complete"
-git push --quiet > /dev/null 2>&1
+#git push --quiet > /dev/null 2>&1
+git push
