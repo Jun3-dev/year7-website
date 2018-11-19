@@ -14,7 +14,6 @@ set -e
 # build site with jekyll, by default to `_site' folder
 bundle exec jekyll build
 
-
 # cleanup
 rm -rf ../year7.cgscomputing.com
 
