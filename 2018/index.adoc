@@ -48,6 +48,7 @@ christine.volk@cgs.act.edu.au
 - https://studio.code.org/projects/applab/gWWcOJBlzo5Hx8OHAuqXgqXhQ8EUgbD59Ijgj97pmjg[AppLab Example - St Nick's Activity RSVP^]
 
 ====== Game Lab
+- https://studio.code.org/projects/gamelab[Game Lab Projects]
 - https://studio.code.org/s/csd3-2018/stage/6/puzzle/1?section_id=1779906[Creating Sprites]
 - https://studio.code.org/s/csd3-2018/stage/7/puzzle/1?section_id=1779906[The Draw Loop]
 - https://studio.code.org/s/csd3-2018/stage/9/puzzle/1?section_id=1779906[Sprite Movement]
