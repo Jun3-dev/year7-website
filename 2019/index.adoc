@@ -1,0 +1,60 @@
+:page-layout: standard_fork
+:page-title: Year 7 Digital Technologies 2019
+:icons: font
+
+= Year 7 Digital Technologies 2019
+
+==== Canberra Grammar School
+
+Mr Matthew Pham +
+matthew.pham@cgs.act.edu.au
+
+Mr Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+==== Course Documents
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+- link:s1assessment/Year%207%20Digital%20Technologies%20-%20Semester%20One%20Grade%20Descriptors.pdf[Semester One Grade Descriptors]
+- link:s2assessment/Year%207%20Digital%20Technologies%20-%20Semester%20Two%20Grade%20Descriptors.pdf[Semester Two Grade Descriptors]
+
+==== Tutorial Sessions
+
+* TBA
+
+=== Resources
+
+===== Semester One
+
+- https://groklearning.com[Grok Learning^]
+
+==== Assessment Tasks
+
+===== Semester One
+
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment One: TBA*
+.^|Monday 18 February 2019 (Week 3)
+.^|Monday 8 April 2019 (Week 10) by 8:45am
+^.^|40%
+
+.^|*Assignment Two: TBA*
+.^|Friday 3 May 2019 (Week 1)
+.^|Monday 3 June 2019 (Week 6) by 8:45am
+^.^|40%
+
+.^|*Classwork and workbook*
+.^|Ongoing
+.^|Ongoing
+^.^|20%
+
+|===
+
