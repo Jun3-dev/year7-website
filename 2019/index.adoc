@@ -14,9 +14,11 @@ matthew.purcell@cgs.act.edu.au
 
 ==== Course Documents
 
+- Need help? Visit the https://edstem.org/courses/3174/discussion[class forum^] on ED STEM.
+
+- You can also attend IT tutorials each Monday from 3:30pm - 5:00pm in SC304.
+-
 - <<course_overview/course_overview.adoc#,Course Outline>>
-- link:s1assessment/Year%207%20Digital%20Technologies%20-%20Semester%20One%20Grade%20Descriptors.pdf[Semester One Grade Descriptors]
-- link:s2assessment/Year%207%20Digital%20Technologies%20-%20Semester%20Two%20Grade%20Descriptors.pdf[Semester Two Grade Descriptors]
 
 ==== Tutorial Sessions
 
