@@ -12,7 +12,7 @@ set -e
 # currently in /home/travis/build/CanberraGrammar/year7-website
 
 # build site with jekyll, by default to `_site' folder
-bundle exe:c jekyll build
+bundle exec jekyll build
 
 # cleanup
 rm -rf ../year7.cgscomputing.com
