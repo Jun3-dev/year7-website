@@ -10,10 +10,9 @@ fi
 set -e
 
 # currently in /home/travis/build/CanberraGrammar/year7-website
-bundle update jekyll-asciidoc
 
 # build site with jekyll, by default to `_site' folder
-bundle exec jekyll build
+bundle exe:c jekyll build
 
 # cleanup
 rm -rf ../year7.cgscomputing.com

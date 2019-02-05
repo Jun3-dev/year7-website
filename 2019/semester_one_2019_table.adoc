@@ -1,0 +1,25 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Assignment One: TBA*
+.^|Monday 18 February 2019 (Week 3)
+.^|Monday 8 April 2019 (Week 10) by 8:45am
+^.^|40%
+
+.^|*Assignment Two: TBA*
+.^|Friday 3 May 2019 (Week 1)
+.^|Monday 3 June 2019 (Week 6) by 8:45am
+^.^|40%
+
+.^|*Classwork and workbook*
+.^|Ongoing
+.^|Ongoing
+^.^|20%
+
+|===

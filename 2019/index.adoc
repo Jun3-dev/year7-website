@@ -6,9 +6,6 @@
 
 ==== Canberra Grammar School
 
-Mr Matthew Nogrady +
-matthew.nogrady@cgs.act.edu.au
-
 Mr Matthew Pham +
 matthew.pham@cgs.act.edu.au
 
@@ -23,6 +20,9 @@ philippa.hurd@cgs.act.edu.au
 
 Ms Tamson Kemp +
 tamsin.kemp@cgs.act.edu.au
+
+Mr Matthew Nogrady +
+matthew.nogrady@cgs.act.edu.au
 
 ==== Course Documents
 
@@ -52,29 +52,7 @@ tamsin.kemp@cgs.act.edu.au
 
 ===== Semester One
 
-[cols="5,4,5,1"]
-|===
+include::semester_one_2019_table.adoc[]
 
-^|*Task*
-^|*Published*
-^|*Due*
-^|*Weight*
-
-{set:cellbgcolor:white}
-.^|*Assignment One: TBA*
-.^|Monday 18 February 2019 (Week 3)
-.^|Monday 8 April 2019 (Week 10) by 8:45am
-^.^|40%
-
-.^|*Assignment Two: TBA*
-.^|Friday 3 May 2019 (Week 1)
-.^|Monday 3 June 2019 (Week 6) by 8:45am
-^.^|40%
-
-.^|*Classwork and workbook*
-.^|Ongoing
-.^|Ongoing
-^.^|20%
-
-|===
+<<semester_one_2019.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>
 
