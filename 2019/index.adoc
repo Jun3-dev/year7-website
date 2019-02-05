@@ -6,11 +6,23 @@
 
 ==== Canberra Grammar School
 
+Mr Matthew Nogrady +
+matthew.nogrady@cgs.act.edu.au
+
 Mr Matthew Pham +
 matthew.pham@cgs.act.edu.au
 
 Mr Matthew Purcell +
 matthew.purcell@cgs.act.edu.au
+
+Mr Michael Zampogna +
+michael.zampogna@cgs.act.edu.au
+
+Mrs Philippa Hurd +
+philippa.hurd@cgs.act.edu.au
+
+Ms Tamson Kemp +
+tamsin.kemp@cgs.act.edu.au
 
 ==== Course Documents
 
@@ -26,7 +38,9 @@ matthew.purcell@cgs.act.edu.au
 
 ==== Lesson Summaries
 
+* http://cgs.ist/0702[IT0702 (Mr Pham) Google Doc^]
 * http://cgs.ist/0704[IT0704 (Mr Purcell) Google Doc^]
+
 
 === Resources
 
