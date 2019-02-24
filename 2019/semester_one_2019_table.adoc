@@ -7,9 +7,9 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Assignment One: TBA*
-.^|Monday 18 February 2019 (Week 3)
-.^|Monday 8 April 2019 (Week 10) by 8:45am
+.^|link:s1assessment/Year%207%20Digital%20Technologies%20-%20Term%201%20Assessment%20Task%20Notification.pdf[Computing Concepts Online Quiz]
+.^|Monday 25 February 2019 (Week 4)
+.^|Term 1 Week 8 during class
 ^.^|40%
 
 .^|*Assignment Two: TBA*
