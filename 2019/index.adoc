@@ -28,13 +28,14 @@ matthew.nogrady@cgs.act.edu.au
 
 - Need help? Visit the https://edstem.org/courses/3173/discussion[class forum^] on ED STEM.
 
-- You can also attend IT tutorials each Monday from 3:30pm - 5:00pm in SC304.
--
+- You can also attend any of the IT tutorials shown below.
+
 - <<course_overview/course_overview.adoc#,Course Outline>>
 
 ==== Tutorial Sessions
 
-* TBA
+* Every Monday from 3:30pm - 5:00pm in SC304
+* Every Wednesday lunchtime in SC303
 
 ==== Lesson Summaries
 
@@ -56,4 +57,3 @@ matthew.nogrady@cgs.act.edu.au
 include::semester_one_2019_table.adoc[]
 
 <<semester_one_2019.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>
-
