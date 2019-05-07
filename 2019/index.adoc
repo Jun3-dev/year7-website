@@ -54,6 +54,7 @@ matthew.nogrady@cgs.act.edu.au
 ====== Examples and Hints for Grok Learning
 * https://docs.google.com/document/d/1s_hHXCydi0J4BKd1euREl6tw-ojc32vzd-KFl-lD7iA/edit?usp=sharing[Module 1 Examples and Hints]
 * https://docs.google.com/document/d/1Cpp2enCFMCLCmU4ofYbN3Ob8-x49eHEYS0yZysUYQ9Y/edit?usp=sharing[Module 2 Examples and Hints]
+* https://docs.google.com/document/d/1jZ47TiHgy-HxvVCI01cKUseRClsdzexP7yviRHwLngo/edit?usp=sharing[Module 3 Examples andf Hints]
 
 ==== Assessment Tasks
 
