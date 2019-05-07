@@ -12,6 +12,16 @@
 .^|Term 1 Week 8 during class
 ^.^|40%
 
+.^|link:s1assessment/Year%207%20Digital%20Technologies%20-%20Term%202%20Assessment%20Task%20Notification.pdf[Grok Learning Modules 1-3]
+.^|Friday 3 May 2019 (Week 1)
+.^|Monday 13 May 2019 (Week 3) by 8:45am
+^.^| -
+
+.^|link:s1assessment/Year%207%20Digital%20Technologies%20-%20Term%202%20Assessment%20Task%20Notification.pdf[Grok Learning Modules 4-6]
+.^|Friday 3 May 2019 (Week 1)
+.^|Monday 27 May 2019 (Week 5) by 8:45am
+^.^| -
+
 .^|link:s1assessment/Year%207%20Digital%20Technologies%20-%20Term%202%20Assessment%20Task%20Notification.pdf[Python Programming Challenge]
 .^|Friday 3 May 2019 (Week 1)
 .^|Monday 3 June 2019 (Week 6) by 8:45am
