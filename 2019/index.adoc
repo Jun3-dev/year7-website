@@ -52,9 +52,11 @@ matthew.nogrady@cgs.act.edu.au
 - http://edstem.org[ED STEM^]
 
 ====== Examples and Hints for Grok Learning
+* https://groklearning-cdn.com/resources/cheatsheet-python-1.pdf[Python Cheat Sheet]
 * https://docs.google.com/document/d/1s_hHXCydi0J4BKd1euREl6tw-ojc32vzd-KFl-lD7iA/edit?usp=sharing[Module 1 Examples and Hints]
 * https://docs.google.com/document/d/1Cpp2enCFMCLCmU4ofYbN3Ob8-x49eHEYS0yZysUYQ9Y/edit?usp=sharing[Module 2 Examples and Hints]
 * https://docs.google.com/document/d/1jZ47TiHgy-HxvVCI01cKUseRClsdzexP7yviRHwLngo/edit?usp=sharing[Module 3 Examples and Hints]
+* https://docs.google.com/document/d/1ABx2824ROz6K3QvPcp0TEwJT2pTX8A7duA6mnltzj00/edit?usp=sharing[Module 4 Examples and Hints]
 
 ==== Assessment Tasks
 
