@@ -45,24 +45,24 @@ philippa.hurd@cgs.act.edu.au
 
 === Resources
 
+===== Semester Two
+
+- https://thunkable.com[Thunkable^]
+- https://www.youtube.com/playlist?list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE[Thunkable Tutorials^]
+
 ===== Semester One
 
 - link:s1resources/Year%207%20Digital%20Technologies%20-%20Term%201%20Booklet.pdf[Term 1 Booklet^]
 - https://groklearning.com[Grok Learning^]
 - http://edstem.org[ED STEM^]
-- https://thunkable.com[Thunkable^]
-- https://www.youtube.com/playlist?list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE[Thunkable Tutorials^]
-
-====== Examples and Hints for Grok Learning
-* https://groklearning-cdn.com/resources/cheatsheet-python-1.pdf[Python Cheat Sheet^]
-* https://docs.google.com/document/d/1s_hHXCydi0J4BKd1euREl6tw-ojc32vzd-KFl-lD7iA/edit?usp=sharing[Module 1 Examples and Hints^]
-* https://docs.google.com/document/d/1Cpp2enCFMCLCmU4ofYbN3Ob8-x49eHEYS0yZysUYQ9Y/edit?usp=sharing[Module 2 Examples and Hints^]
-* https://docs.google.com/document/d/1jZ47TiHgy-HxvVCI01cKUseRClsdzexP7yviRHwLngo/edit?usp=sharing[Module 3 Examples and Hints^]
-* https://docs.google.com/document/d/1ABx2824ROz6K3QvPcp0TEwJT2pTX8A7duA6mnltzj00/edit?usp=sharing[Module 4 Examples and Hints^]
-* https://docs.google.com/document/d/1_nEQ4bZe8Cl5fdJBdfoZC36kqGvhNFJLV1j1v8iXZYs/edit?usp=sharing[Module 5 Examples and Hints^]
-* https://docs.google.com/document/d/1ZpKKXmlJmzfckn91RFklIOgMteTMrLIj5IvqBzA2chI/edit?usp=sharing[Module 6 Examples and Hints^]
+- https://groklearning-cdn.com/resources/cheatsheet-python-1.pdf[Python Cheat Sheet^]
+- https://drive.google.com/drive/folders/1H1K_Qx3hZYLvsAzzqG6jLvuFd1n71Obp?usp=sharing[Examples and Hints for Grok Learning]
 
 ==== Assessment Tasks
+
+===== Semester Two
+
+include::semester_two_2019_table.adoc[]
 
 ===== Semester One
 
