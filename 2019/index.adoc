@@ -50,6 +50,9 @@ philippa.hurd@cgs.act.edu.au
 - https://thunkable.com[Thunkable^]
 - https://www.youtube.com/playlist?list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE[Thunkable Tutorials^]
 
+You will need to complete all the tutorials up to and including Tutorial 10 "Scavenger Hunt App", to prepare for your first assignment.
+
+
 ===== Semester One
 
 - link:s1resources/Year%207%20Digital%20Technologies%20-%20Term%201%20Booklet.pdf[Term 1 Booklet^]
