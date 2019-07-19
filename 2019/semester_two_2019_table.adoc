@@ -9,12 +9,12 @@
 {set:cellbgcolor:white}
 .^|App Development
 .^|Monday 5 Aug 2019 (Week 3)
-.^|Monday 2 Sep 2019 (Week 7)
+.^|Tuesday 3 Sep 2019 (Week 7)
 ^.^|30%
 
 .^|App Design
 .^|Monday 2 Sep 2019 (Week 7)
-.^|Monday 4 Nov 2019 (Term 2 Week 4) by 8:45am
+.^|Tuesday 5 Nov 2019 (Term 2 Week 4) by 8:45am
 ^.^|50%
 
 .^|In class quizzes and tasks
