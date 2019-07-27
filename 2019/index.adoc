@@ -67,6 +67,8 @@ You will need to complete all the tutorials up to and including Tutorial 10 "Sca
 
 include::semester_two_2019_table.adoc[]
 
+<<semester_two_2019.adoc#, Semester Two &mdash; Full Unit Information and Assessment Schedule>>
+
 ===== Semester One
 
 include::semester_one_2019_table.adoc[]
