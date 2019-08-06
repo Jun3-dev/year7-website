@@ -7,8 +7,8 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|App Development
-.^|Monday 5 Aug 2019 (Week 3)
+.^|link:s2assessment/Year%207%20Digital%20Technologies%20-%20Term%203%20Assessment%20Task%20Notification.pdf[App Development]
+.^|Tuesday 6 Aug 2019 (Week 3)
 .^|Tuesday 3 Sep 2019 (Week 7)
 ^.^|30%
 
