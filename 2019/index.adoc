@@ -49,7 +49,7 @@ philippa.hurd@cgs.act.edu.au
 
 - https://thunkable.com[Thunkable^]
 - https://www.youtube.com/playlist?list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE[Thunkable Tutorials^]
-- https://docs.google.com/a/cgs.act.edu.au/document/d/e/2PACX-1vSrIYISfs4WkQb0HYwyonDbZ7Wzj_FVGGu3twx4HXbDvFpTlazLY6jwj0dc2i75fMNTUKfykorTsbpU/pub[Thunkable Cheat Sheet)^]
+- https://docs.google.com/a/cgs.act.edu.au/document/d/e/2PACX-1vSrIYISfs4WkQb0HYwyonDbZ7Wzj_FVGGu3twx4HXbDvFpTlazLY6jwj0dc2i75fMNTUKfykorTsbpU/pub[Thunkable Cheat Sheet^]
 - https://docs.google.com/a/cgs.act.edu.au/document/d/e/2PACX-1vSuGkC0chtwTlcQqV7brubh4OnlIqZRPp67n2z9ElnUx36BZzXeAUdE-mWjsMwfgs3XjWlQfMTk3KYg/pub[Thunkable Case Study: Advanced Translator^]
 - https://drive.google.com/open?id=1cDWvtW_9AkShyySGSpK_lDfT0LtkbcsG[Understanding Thunkable Loops^]
 
