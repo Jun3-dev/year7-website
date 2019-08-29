@@ -53,6 +53,7 @@ philippa.hurd@cgs.act.edu.au
 - https://docs.google.com/a/cgs.act.edu.au/document/d/e/2PACX-1vSuGkC0chtwTlcQqV7brubh4OnlIqZRPp67n2z9ElnUx36BZzXeAUdE-mWjsMwfgs3XjWlQfMTk3KYg/pub[Thunkable Case Study: Advanced Translator^]
 - https://x.thunkable.com/copy/69dca86d4590b21c27768d20d4af340a[SOLUTION: Advanced Translator^]
 - https://drive.google.com/open?id=1cDWvtW_9AkShyySGSpK_lDfT0LtkbcsG[Understanding Thunkable Loops^]
+- link:s2resources/Thunkable-Application-Development-Screen-Examples.pdf[Thunkable Application Development Screen Examples^]
 
 You will need to complete all the tutorials up to and including Tutorial 10 "Scavenger Hunt App", to prepare for your first assignment.
 
