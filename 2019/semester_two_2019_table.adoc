@@ -8,7 +8,7 @@
 
 {set:cellbgcolor:white}
 .^|link:s2assessment/Year%207%20Digital%20Technologies%20Term%203%20Assessment%20Task%20Notification.pdf[App Development^]
-- link:s2assessment/Year%207%20Digital%20Technologies%20Term%204%20Assessment%20Task%20Mark%20Scheme.pdf[Self Assessed Mark Scheme^]
+- link:s2assessment/Year%207%20Digital%20Technologies%20Term%203%20Assessment%20Task%20Mark%20Scheme.pdf[Self Assessed Mark Scheme^]
 .^|Tuesday 6 Aug 2019 (Week 3)
 .^|Friday 13 Sep 2019 (Week 8)
 ^.^|30%
