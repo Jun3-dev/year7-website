@@ -13,7 +13,7 @@
 ^.^|30%
 
 .^|link:s2assessment/Year%207%20Digital%20Technologies%20Term%204%20Assessment%20Task%20Notification.pdf[App Design]
-link:s2assessment/Year%207%20Digital%20Technologies%20Term%204%20Assessment%20Mark%20Scheme.pdf[Mark Scheme]
+- link:s2assessment/Year%207%20Digital%20Technologies%20Term%204%20Assessment%20Task%20Mark%20Scheme.pdf[Mark Scheme]
 .^|Thursday 5 Sep 2019 (Week 7)
 .^|Tuesday 5 Nov 2019 (Term 2 Week 4) by 8:45am
 ^.^|50%
