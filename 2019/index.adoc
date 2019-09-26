@@ -61,8 +61,8 @@ You will need to complete all the tutorials up to and including Tutorial 10 "Sca
 
 - link:s2resources/App%20Design%20Example%20Content%20-%20St%20Nick%27s%20Activity%20RSVP%20(A%20Standard).pdf[App Design Example Content - St Nick's Activity RSVP (A Standard) PDF^]
 - link:s2resources/App%20Design%20Example%20Content%20-%20St%20Nick%27s%20Activity%20RSVP%20(A%20Standard).pdf[App Design Example Content - St Nick's Activity RSVP (A Standard) PPT^]
-- link:s2resources/App%20Design%20Example%20Content%20-%20ASAP%20Aid%20(C%20Standard).pdf[App Design Example Content - St Nick's Activity RSVP (A Standard) PDF^]
-- link:s2resources/App%20Design%20Example%20Content%20-%20ASAP%20Aid%20(C%20Standard).pptx[App Design Example Content - St Nick's Activity RSVP (A Standard) PPT^]
+- link:s2resources/App%20Design%20Example%20Content%20-%20ASAP%20Aid%20(C%20standard).pdf[App Design Example Content - ASAP Aid (C Standard) PDF^]
+- link:s2resources/App%20Design%20Example%20Content%20-%20ASAP%20Aid%20(C%20standard).pptx[App Design Example Content - ASAP Aid (C Standard) PPT^]
 
 ==== Semester One
 
