@@ -45,7 +45,7 @@ philippa.hurd@cgs.act.edu.au
 
 === Resources
 
-===== Semester Two
+==== Semester Two
 
 - https://thunkable.com[Thunkable^]
 - https://www.youtube.com/playlist?list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE[Thunkable Tutorials^]
@@ -57,8 +57,14 @@ philippa.hurd@cgs.act.edu.au
 
 You will need to complete all the tutorials up to and including Tutorial 10 "Scavenger Hunt App", to prepare for your first assignment.
 
+===== Assessment Templates and Examples
 
-===== Semester One
+- link:s2resources/App%20Design%20Example%20Content%20-%20St%20Nick%27s%20Activity%20RSVP%20(A%20Standard).pdf[App Design Example Content - St Nick's Activity RSVP (A Standard) PDF^]
+- link:s2resources/App%20Design%20Example%20Content%20-%20St%20Nick%27s%20Activity%20RSVP%20(A%20Standard).pdf[App Design Example Content - St Nick's Activity RSVP (A Standard) PPT^]
+- link:s2resources/App%20Design%20Example%20Content%20-%20ASAP%20Aid%20(C%20Standard).pdf[App Design Example Content - St Nick's Activity RSVP (A Standard) PDF^]
+- link:s2resources/App%20Design%20Example%20Content%20-%20ASAP%20Aid%20(C%20Standard).pptx[App Design Example Content - St Nick's Activity RSVP (A Standard) PPT^]
+
+==== Semester One
 
 - link:s1resources/Year%207%20Digital%20Technologies%20-%20Term%201%20Booklet.pdf[Term 1 Booklet^]
 - https://groklearning.com[Grok Learning^]
@@ -66,15 +72,15 @@ You will need to complete all the tutorials up to and including Tutorial 10 "Sca
 - https://groklearning-cdn.com/resources/cheatsheet-python-1.pdf[Python Cheat Sheet^]
 - https://drive.google.com/drive/folders/1H1K_Qx3hZYLvsAzzqG6jLvuFd1n71Obp?usp=sharing[Examples and Hints for Grok Learning]
 
-==== Assessment Tasks
+=== Assessment Tasks
 
-===== Semester Two
+==== Semester Two
 
 include::semester_two_2019_table.adoc[]
 
 <<semester_two_2019.adoc#, Semester Two &mdash; Full Unit Information and Assessment Schedule>>
 
-===== Semester One
+==== Semester One
 
 include::semester_one_2019_table.adoc[]
 
