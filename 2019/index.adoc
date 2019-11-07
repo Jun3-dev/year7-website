@@ -47,6 +47,14 @@ philippa.hurd@cgs.act.edu.au
 
 ==== Semester Two
 
+===== Practice Quizzes for In Class Assessment
+
+- https://forms.gle/fUs6uTb6dGnM5jWt5[Practice Quiz: Understanding Thunkable and App Design:^]
+- https://forms.gle/9thb9XqA9Ysn3RDm7[Practice Quiz: Understanding Thunkable Loops:^]
+- https://create.kahoot.it/share/thunkable-basics-cgs/b3f971ba-f57f-42ec-abd0-74e30882a46e[Practice Quiz: Thunkable Basics Kahoot:^]
+
+===== Thunkable
+
 - https://thunkable.com[Thunkable^]
 - https://www.youtube.com/playlist?list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE[Thunkable Tutorials^]
 - https://docs.google.com/a/cgs.act.edu.au/document/d/e/2PACX-1vSrIYISfs4WkQb0HYwyonDbZ7Wzj_FVGGu3twx4HXbDvFpTlazLY6jwj0dc2i75fMNTUKfykorTsbpU/pub[Thunkable Cheat Sheet^]
