@@ -9,21 +9,21 @@
 {set:cellbgcolor:white}
 .^|*Computing Concepts Online Quiz*
 .^|Monday 27 July 2020 (Week 2)
-.^|Term 1 Week 4 during class
+.^|Friday 28 February 2020 (Week 4 during class)
 ^.^|30%
 
-.^|*Grok Learning Modules 1-9*
+.^|*Grok Learning Modules & Small Quiz*
 .^|Monday 27 July 2020 (Week 2)
-.^|Friday 28 August (Week 6)
+.^|Friday 28 August 2020 (Week 6 during class)
 ^.^|10%
 
 .^|*Thunkable Tutorials & Challenges*
-.^|Monday 31 August 2020 (Week 7)
-.^|Tuesday 22 September (Week 10)
+.^|Monday 24 August 2020 (Week 6)
+.^|Friday 18 September 2020 (Week 9)
 ^.^|30%
 
 .^|*App Design (Group Task)*
-.^|Monday 14 September 2020 (Week 9)
+.^|Monday 7 September 2020 (Week 8)
 .^|Tuesday 3 November 2020 (Term 4 Week 5)
 ^.^|30%
 
