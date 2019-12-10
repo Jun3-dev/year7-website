@@ -7,24 +7,19 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Computing Concepts Online Quiz*
+.^|*Computing Concepts & Grok Learning Quiz*
 .^|Monday 10 February 2020 (Week 2)
-.^|Friday 28 February 2020 (Week 4 during class)
+.^|Thursday 12 March 2020 (IT0702/4/5/8) & Friday 13 March 2020 (IT0706) (Week 6)
 ^.^|30%
-
-.^|*Grok Learning Modules & Small Quiz*
-.^|Monday 10 February 2020 (Week 2)
-.^|Friday 13 March 2020 (Week 6 during class)
-^.^|10%
 
 .^|*Thunkable Tutorials & Challenges*
 .^|Monday 9 March 2020 (Week 6)
-.^|Friday 3 April 2020 (Week 9)
-^.^|30%
+.^|Tuesday 7 April 2020 (IT0704) & Wednesday 8 April 2020 (IT0702/5/6/8) (Week 10)
+^.^|35%
 
 .^|*App Design (Group Task)*
 .^|Monday 23 March 2020 (Week 8)
-.^|Tuesday 21 May 2020 (Term 2 Week 5)
-^.^|30%
+.^|Tuesday 4 June 2020 by 8:45am (Week 16)
+^.^|35%
 
 |===
