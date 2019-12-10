@@ -1,0 +1,26 @@
+* Computing Concepts
+** Google Drive Fundamentals
+** Binary Messages
+** Internet Addresses
+** Computational Thinking
+** Algorithm Design
+* Introduction to Programming (Blockly)
+** Modules 1-4: Calculating things & making decisions
+** Modules 5-9: Investing strings and loops
+* Mobile App Development (Thunkable)
+** Getting Started
+** Tutorials 1-3: Introduction to Thunkable
+*** Challenge 1: Putting it together (Sound & Random Answers)
+** Tutorials 4-5: Image Recognition & Translator
+*** Challenge 2: Putting it together (Using Lists)
+** Tutorial 6: Question & Answer
+*** Challenge 3: Quiz App
+* Mobile App Design (Group Task)
+** Work collaboratively in teams
+** The design process
+*** Define the problem
+*** Describe the app
+*** Inputs, processing and outputs
+*** Screen navigation
+** Create a poster
+** Create a video

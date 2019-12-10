@@ -1,0 +1,30 @@
+[cols="5,4,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Computing Concepts Online Quiz*
+.^|Monday 10 February 2020 (Week 2)
+.^|Term 1 Week 4 during class
+^.^|30%
+
+.^|*Grok Learning Modules 1-9*
+.^|Monday 10 February 2020 (Week 2)
+.^|Friday 13 Mar (Week 6)
+^.^|10%
+
+.^|*Thunkable Tutorials & Challenges*
+.^|Monday 16 March 2020 (Week 7)
+.^|Tuesday 7 April (Week 10)
+^.^|30%
+
+.^|*App Design (Group Task)*
+.^|Monday 30 March 2020 (Week 9)
+.^|Tuesday 21 May 2020 (Term 2 Week 5)
+^.^|30%
+
+|===
