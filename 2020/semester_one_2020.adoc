@@ -17,4 +17,4 @@ include::semester_one_2020_table.adoc[]
 
 include::course_detail.adoc[]
 
-include::grades_misc.adoc[]
+include::grade_descriptors.adoc[]
