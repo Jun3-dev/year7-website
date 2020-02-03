@@ -20,7 +20,7 @@ michael.zampogna@cgs.act.edu.au
 
 ==== Course Documents
 
-- Need help? Visit the https://edstem.org/courses/3173/discussion[class forum^] on ED STEM.
+- Need help? Visit the https://edstem.org/courses/3875/discussion[class forum^] on ED STEM.
 
 - You can also attend any of the IT tutorials shown below.
 
@@ -28,8 +28,7 @@ michael.zampogna@cgs.act.edu.au
 
 ==== Tutorial Sessions
 
-* Every Monday from 3:30pm - 5:00pm in SC304
-* Every Wednesday lunchtime in SC303
+* Wednesday afternoons from 3:30pm - 5:00pm in SC304
 
 ==== Lesson Summaries
 
