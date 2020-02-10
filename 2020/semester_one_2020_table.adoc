@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Computing Concepts & Grok Learning Quiz*
+.^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%206%20Assessment%20Task%20Notification.pdf[Computing Concepts & Grok Learning Quiz]*
 .^|Monday 10 February 2020 (Week 2)
 .^|Thursday 12 March 2020 (IT0702/4/5/8) & Friday 13 March 2020 (IT0706) (Week 6)
 ^.^|30%
