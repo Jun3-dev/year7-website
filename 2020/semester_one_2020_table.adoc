@@ -9,12 +9,23 @@
 {set:cellbgcolor:white}
 .^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%206%20Assessment%20Task%20Notification.pdf[Computing Concepts & Grok Learning Quiz]*
 .^|Monday 10 February 2020 (Week 2)
-.^|Thursday 12 March 2020 (IT0702/4/5/8) & Friday 13 March 2020 (IT0706) (Week 6)
+.^|
+Thursday 12 March 2020 (IT0702/4/8/9)
+
+Friday 13 March 2020 (IT0706) (Week 6)
 ^.^|30%
 
 .^|*Thunkable Tutorials & Challenges*
 .^|Monday 9 March 2020 (Week 6)
-.^|Tuesday 7 April 2020 (IT0704) & Wednesday 8 April 2020 (IT0702/5/6/8) (Week 10)
+.^|
+    Mon 6 April 2020 (IT0704/8) (Week 10)
+
+    Tue 7 April 2020 (IT0706) (Week 10)
+
+    Thu 9 April 2020 (IT0702/9) (Week 10)
+
+
+
 ^.^|35%
 
 .^|*App Design (Group Task)*
