@@ -38,6 +38,10 @@ michael.zampogna@cgs.act.edu.au
 * http://cgs.ist/0708[IT0708 Google Doc^]
 * http://cgs.ist/0709[IT0709 Google Doc^]
 
+==== Resources
+
+* link:s1resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet^]
+
 === Assessment Tasks
 
 ==== Semester One
