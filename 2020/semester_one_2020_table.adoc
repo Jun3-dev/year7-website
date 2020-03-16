@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%206%20Assessment%20Task%20Notification.pdf[Computing Concepts & Grok Learning Quiz]*
+.^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%206%20Assessment%20Task%20Notification.pdf[Computing Concepts & Grok Learning Quiz^]*
 .^|Monday 10 February 2020 (Week 2)
 .^|
 Thursday 12 March 2020 (IT0702/4/8/9)
@@ -15,8 +15,8 @@ Thursday 12 March 2020 (IT0702/4/8/9)
 Friday 13 March 2020 (IT0706) (Week 6)
 ^.^|30%
 
-.^|*Thunkable Tutorials & Challenges*
-.^|Monday 9 March 2020 (Week 6)
+.^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%2010%20Assessment%20Task%20Notification.pdf[Thunkable Tutorials & Challenges^]*
+.^|Tuesday 17 March 2020 (Week 7)
 .^|
     Mon 6 April 2020 (IT0704/8) (Week 10)
 
