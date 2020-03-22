@@ -42,7 +42,7 @@ michael.zampogna@cgs.act.edu.au
 
 * link:s1resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet^]
 * link:s1resources/Thunkable%20Booklet.pdf[Thunkable Booklet^]
-
+* https://drive.google.com/open?id=1li64j2JWPYWKZ-zMJipKl0AJmgRb6r2M[Thunkable Video Walkthroughs^]
 === Assessment Tasks
 
 ==== Semester One
