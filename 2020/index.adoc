@@ -40,8 +40,8 @@ michael.zampogna@cgs.act.edu.au
 
 ==== Resources
 
-* link:s1resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet^]
-* link:s1resources/Thunkable%20Booklet.pdf[Thunkable Booklet^]
+* link:s1resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet (Edit this in Google Classroom)^]
+* link:s1resources/Thunkable%20Booklet.pdf[Thunkable Booklet (Edit this in Google Classroom)^]
 * https://drive.google.com/open?id=1li64j2JWPYWKZ-zMJipKl0AJmgRb6r2M[Thunkable Video Walkthroughs^]
 * link:s1resources/Notes%20to%20help%20with%20Thunkable.pdf[Notes to help with Thunkable - Adding Screenshots^]
 
