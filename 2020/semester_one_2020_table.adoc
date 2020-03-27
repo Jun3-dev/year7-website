@@ -15,17 +15,9 @@ Thursday 12 March 2020 (IT0702/4/8/9)
 Friday 13 March 2020 (IT0706) (Week 6)
 ^.^|30%
 
-.^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%2010%20Assessment%20Task%20Notification%20(Revised).pdf[Thunkable Tutorials & Challenges (Revised)^]*
+.^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%2010%20Assessment%20Task%20Notification%20(Revised).pdf[Thunkable Tutorials & Challenges (REVISED for Remote Learning)^]*
 .^|Tuesday 17 March 2020 (Week 7)
-.^|
-    Mon 6 April 2020 (IT0704/8) (Week 10)
-
-    Tue 7 April 2020 (IT0706) (Week 10)
-
-    Thu 9 April 2020 (IT0702/9) (Week 10)
-
-
-
+.^|8:45am Thu 9 April 2020 (Week 10)
 ^.^|35%
 
 .^|*App Design (Group Task)*
