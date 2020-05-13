@@ -42,6 +42,8 @@ michael.zampogna@cgs.act.edu.au
 
 Working in groups of 2 or 3, your task is to design and create a Thunkable App to help solve a real world problem.
 
+You may also choose to create a 1-2 minute video pitching the benefits of your app, similar to a presentation on Shark Tank.
+
 Here are some ideas for you to consider:
 
 * Things you’d like to improve in your school or community (e.g. wellbeing, co-curricular activities, safety)
