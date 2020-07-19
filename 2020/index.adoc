@@ -32,35 +32,19 @@ michael.zampogna@cgs.act.edu.au
 
 ==== Lesson Summaries
 
-* http://cgs.ist/0702[IT0702 Google Doc^]
-* http://cgs.ist/0704[IT0704 Google Doc^]
-* http://cgs.ist/0706[IT0706 Google Doc^]
-* http://cgs.ist/0708[IT0708 Google Doc^]
-* http://cgs.ist/0709[IT0709 Google Doc^]
+* http://cgs.ist/0701[IT0701 Google Doc^]
+* http://cgs.ist/0703[IT0703 Google Doc^]
+* http://cgs.ist/0705[IT0705 Google Doc^]
+* http://cgs.ist/0707[IT0707 Google Doc^]
 
-==== Term 2 App Design (In Class Task)
+==== Google Classroom Resources
 
-Working in groups of 2 or 3, your task is to design and create a Thunkable App to help solve a real world problem.
-
-You may also choose to create a 1-2 minute video pitching the benefits of your app, similar to a presentation on Shark Tank.
-
-Here are some ideas for you to consider:
-
-* Things you’d like to improve in your school or community (e.g. wellbeing, co-curricular activities, safety)
-* A task in everyday life that could be more completed more easily (e.g. self-organisation, study planning, remembering chores)
-* A cause that you feel strongly about (e.g. charity, medical research)
-
-==== Resources
-
-* link:s1resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet (Edit this in Google Classroom)^]
-* link:s1resources/Thunkable%20Booklet.pdf[Thunkable Booklet (Edit this in Google Classroom)^]
-* https://drive.google.com/open?id=1li64j2JWPYWKZ-zMJipKl0AJmgRb6r2M[Thunkable Video Walkthroughs^]
-* link:s1resources/Notes%20to%20help%20with%20Thunkable.pdf[Notes to help with Thunkable - Adding Screenshots^]
+* link:s2resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet (Edit this in Google Classroom)^]
 
 === Assessment Tasks
 
-==== Semester One
+==== Semester Two
 
-include::semester_one_2020_table.adoc[]
+include::semester_two_2020_table.adoc[]
 
-<<semester_one_2020.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>
+<<semester_two_2020.adoc#, Semester Two &mdash; Full Unit Information and Assessment Schedule>>

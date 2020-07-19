@@ -1,0 +1,66 @@
+:page-layout: standard_fork
+:page-title: Year 7 Digital Technologies 2020
+:icons: font
+
+= Year 7 Digital Technologies 2020
+
+==== Canberra Grammar School
+
+Mr Arnold Choi +
+arnold.choi@cgs.act.edu.au
+
+Mr Matthew Pham +
+matthew.pham@cgs.act.edu.au
+
+Mr Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+Mr Michael Zampogna +
+michael.zampogna@cgs.act.edu.au
+
+==== Course Documents
+
+- Need help? Visit the https://edstem.org/courses/3875/discussion[class forum^] on ED STEM.
+
+- You can also attend any of the IT tutorials shown below.
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Tutorial Sessions
+
+* Wednesday afternoons from 3:30pm - 5:00pm in SC304
+
+==== Lesson Summaries
+
+* http://cgs.ist/0702[IT0702 Google Doc^]
+* http://cgs.ist/0704[IT0704 Google Doc^]
+* http://cgs.ist/0706[IT0706 Google Doc^]
+* http://cgs.ist/0708[IT0708 Google Doc^]
+* http://cgs.ist/0709[IT0709 Google Doc^]
+
+==== Term 2 App Design (In Class Task)
+
+Working in groups of 2 or 3, your task is to design and create a Thunkable App to help solve a real world problem.
+
+You may also choose to create a 1-2 minute video pitching the benefits of your app, similar to a presentation on Shark Tank.
+
+Here are some ideas for you to consider:
+
+* Things you’d like to improve in your school or community (e.g. wellbeing, co-curricular activities, safety)
+* A task in everyday life that could be more completed more easily (e.g. self-organisation, study planning, remembering chores)
+* A cause that you feel strongly about (e.g. charity, medical research)
+
+==== Resources
+
+* link:s1resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet (Edit this in Google Classroom)^]
+* link:s1resources/Thunkable%20Booklet.pdf[Thunkable Booklet (Edit this in Google Classroom)^]
+* https://drive.google.com/open?id=1li64j2JWPYWKZ-zMJipKl0AJmgRb6r2M[Thunkable Video Walkthroughs^]
+* link:s1resources/Notes%20to%20help%20with%20Thunkable.pdf[Notes to help with Thunkable - Adding Screenshots^]
+
+=== Assessment Tasks
+
+==== Semester One
+
+include::semester_one_2020_table.adoc[]
+
+<<semester_one_2020.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>
