@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Quiz: Computing Concepts and Grok Learning*
+.^|*link:s2assessment/Year%207%20Digital%20Technologies%20Term%203%20Week%206%20Assessment%20Task%20Notification.pdf[Quiz: Computing Concepts^]*
 .^|Monday 27 July 2020 (Week 2)
 .^|Monday 24 August 2020 (Week 6)
 ^.^|20%
