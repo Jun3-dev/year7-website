@@ -12,7 +12,7 @@
 .^|Monday 24 August 2020 (Week 6)
 ^.^|20%
 
-.^|*Assignment 1: Thunkable Tutorials & Challenges*
+.^|*link:s2assessment/Year%207%20Digital%20Technologies%20Term%203%20Week%2010%20Assessment%20Task%20Notification.pdf[Assignment 1: Thunkable App Development^]*
 .^|Monday 24 August 2020 (Week 6)
 .^|8:45am Tuesday 22 September 2020 (Week 10)
 ^.^|40%
