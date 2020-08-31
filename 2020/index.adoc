@@ -40,6 +40,11 @@ michael.zampogna@cgs.act.edu.au
 ==== Google Classroom Resources
 
 * link:s2resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet (Edit this in Google Classroom)^]
+* link:s2resources/Thunkable%20Booklet.pdf[Thunkable Booklet (Edit this in Google Classroom)^]
+* https://drive.google.com/file/d/1ioSr1tHnyViQD_6cPPp1LIPmQ_Cth2vk/view[Introductory Video to Thunkable^]
+* https://community.thunkable.com/t/thunkable-x-beginner-tutorials/40418[Thunkable Beginner Tutorials^]
+* https://drive.google.com/drive/u/2/folders/1li64j2JWPYWKZ-zMJipKl0AJmgRb6r2M[Thunkable Walkthrough Videos^]
+* https://drive.google.com/file/d/1BIIYghLicUE2itJjcZeKi_uPptAades_/view[Thunkable Challenges & Creative Task Video^]
 
 === Assessment Tasks
 
