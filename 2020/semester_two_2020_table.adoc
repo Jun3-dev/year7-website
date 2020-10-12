@@ -1,4 +1,4 @@
-[cols="5,4,5,1"]
+[cols="5,5,5,1"]
 |===
 
 ^|*Task*
@@ -18,7 +18,9 @@
 ^.^|40%
 
 .^|*link:s2assessment/Year%207%20Digital%20Technologies%20Term%204%20Week%205%20Assessment%20Task%20Notification.pdf[Assignment 2: App Design Group Task^]*
-.^|Monday 21 September 2020 (Week 10)
+.^|Monday 21 September 2020 (Week 10) +
+*Updated Marking Criteria:* +
+Tuesday 13 October 2020 (Term 4 Week 1)
 .^|8:45am Tuesday 10 November 2020 (Week 15)
 ^.^|40%
 
