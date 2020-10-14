@@ -46,6 +46,13 @@ michael.zampogna@cgs.act.edu.au
 * https://drive.google.com/drive/u/2/folders/1li64j2JWPYWKZ-zMJipKl0AJmgRb6r2M[Thunkable Walkthrough Videos^]
 * https://drive.google.com/file/d/1BIIYghLicUE2itJjcZeKi_uPptAades_/view[Thunkable Challenges & Creative Task Video^]
 
+===== Assessment Templates and Examples
+
+- link:s2resources/App%20Design%20Example%20Content%20-%20St%20Nick%27s%20Activity%20RSVP%20(A%20Standard).pdf[App Design Example Content - St Nick's Activity RSVP (A Standard) PDF^]
+- link:s2resources/App%20Design%20Example%20Content%20-%20St%20Nick%27s%20Activity%20RSVP%20(A%20Standard).pptx[App Design Example Content - St Nick's Activity RSVP (A Standard) PPT^]
+- link:s2resources/App%20Design%20Example%20Content%20-%20ASAP%20Aid%20(C%20standard).pdf[App Design Example Content - ASAP Aid (C Standard) PDF^]
+- link:s2resources/App%20Design%20Example%20Content%20-%20ASAP%20Aid%20(C%20standard).pptx[App Design Example Content - ASAP Aid (C Standard) PPT^]
+
 === Assessment Tasks
 
 ==== Semester Two
