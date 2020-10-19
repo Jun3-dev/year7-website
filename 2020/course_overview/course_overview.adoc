@@ -61,6 +61,8 @@ This course will use the following materials and resources:
 * Code.org
 * Thunkable
 
+A $50 charge will appear on your school account to cover the cost of the resources for this course.
+
 As we are using browser based platforms for creation of digital solutions, together with hosting files online, you will have access to the same development software (together with their files) from any computer. These can be accessed through any standards-compliant web browser, although all our work will be completed using the free Google Chrome web browser.
 
 For this course, you are required to have your own laptop computer running full Windows or Mac OS.
