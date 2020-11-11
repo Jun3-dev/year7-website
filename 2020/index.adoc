@@ -37,6 +37,12 @@ michael.zampogna@cgs.act.edu.au
 * http://cgs.ist/0705[IT0705 Google Doc^]
 * http://cgs.ist/0707[IT0707 Google Doc^]
 
+==== Construct 3 Resources
+
+* https://construct-static.com/downloads/v835/education/levelup.pdf[Construct 3 Level Up Beginner's Guide^]
+* https://construct-static.com/downloads/v835/education/berniecrumbs.zip[Develop games with Construct 3 - Bernie Crumbs^]
+* https://www.construct.net/en/tutorials/platformer-game-2329[Construct 3 - How to make a platformer game^]
+
 ==== Google Classroom Resources
 
 * link:s2resources/Computing%20Concepts%20Booklet.pdf[Computing Concepts Booklet (Edit this in Google Classroom)^]
