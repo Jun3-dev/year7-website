@@ -1,0 +1,20 @@
+:page-layout: standard_toc
+:page-title: Unit Outline and Assessment Schedule
+
+= Year 7 IT &mdash; Semester One 2021
+
+== Unit Outline and Assessment Schedule
+
+=== Report Criteria / Areas of Learning
+
+include::report_criteria.adoc[]
+
+=== Assessment Schedule
+
+include::semester_one_2021_table.adoc[]
+
+=== Course Detail
+
+include::course_detail.adoc[]
+
+include::grade_descriptors.adoc[]

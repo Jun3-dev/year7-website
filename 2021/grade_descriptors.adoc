@@ -1,0 +1,40 @@
+=== Grade Descriptors
+
+[cols="1,20"]
+|===
+
+^.^|*A*
+.^|
+The student demonstrates an extensive knowledge of cloud computing, data representation in binary, data transmission in networks, flowcharts and algorithms. They are highly proficient with programming, and are able to implement a user interface with sophisticated processing, making excellent use of visual components and control structures. The student displays exceptional creativity and foresight to design a purposeful app, presenting ideas comprehensively and professionally, whilst collaborating effectively within a team. When faced with a complex scenario, they are able to confidently and independently break a problem down to manageable sub-elements and relationships.
+
+^.^|*B*
+.^|The student demonstrates a thorough knowledge of cloud computing, data representation in binary, data transmission in networks, flowcharts and algorithms. They are proficient with programming, and are able to implement a user interface with complex processing, making very good use of visual components and control structures. The student displays very good creativity and foresight to design a purposeful app, presenting ideas thoroughly and professionally, whilst collaborating effectively within a team. When faced with a complex scenario, they are able to confidently break a problem down to manageable sub-elements and relationships.
+
+
+^.^|*C*
+.^|The student demonstrates a sound knowledge of cloud computing, data representation in binary, data transmission in networks, flowcharts and algorithms. They have a working knowledge of programming, and are able to implement a user interface with satisfactory processing, making effective use of visual components and control structures. The student displays creativity and foresight to design a purposeful app, presenting ideas well, whilst collaborating within a team. To improve, they should further develop their knowledge and understanding by undertaking more regular revision of content and progressing through a greater range of tutorials and programming exercises.
+
+^.^|*D*
+.^|The student demonstrates a limited knowledge of cloud computing, data representation in binary, data transmission in networks, flowcharts and algorithms. They have some knowledge of programming, and are able to implement a basic user interface, making limited use of visual components and control structures. The student displays limited creativity and foresight to design an app, presenting ideas in a basic manner, whilst collaborating within a team. To improve, they should further develop their knowledge and understanding by undertaking more regular revision of content and progressing through a greater range of tutorials and programming exercises.
+
+^.^|*E*
+.^|The student demonstrates a very limited knowledge of cloud computing, data representation in binary, data transmission in networks, flowcharts and algorithms. They have an elementary knowledge of programming, and are able to partially implement a basic user interface, making very limited use of visual components and control structures. The student displays minimal creativity and foresight to design an app, presenting ideas in insufficient detail, failing to collaborate effectively within a team. To improve, they should further develop their knowledge and understanding by undertaking more regular revision of content and progressing through a greater range of tutorials and programming exercises.
+
+^.^|*S*
+.^|Awarded to students who have been unable to complete sufficient work due to an extended period of illness or other approved absence (status).
+
+|===
+
+=== Absence from Class
+
+It is your responsibility to catch up on work missed when absent from class. We suggest you email your teacher on the day you are away to request any missed work or information.
+
+If you are away for an assessment, please consult your teacher to make arrangements to complete the assessment as soon as possible after you return to school. After 10 school days, the assessment cannot be rescheduled and either an estimate (in the case of an explained absence) or a zero will be awarded.
+
+For assignments and non-test events a late work penalty of 10% of the total possible mark will be incurred for each day late if work is not submitted on the due date.  A loss of 30% is incurred if work due on a Friday is not submitted until the following Monday. After one week (7 days) the item will be awarded a mark of zero.
+
+=== All My Own Work
+
+Please note that any submitted work is to be your own. There are serious consequences for submitting work which is taken from another person, even if they give it to you voluntarily. To decide if you have written the material, we may need to question you about your understanding of the topic. Please be careful when presenting ideas which are not entirely your own; reference such material thoroughly.
+
+For more specific examples, see the <<course_overview/course_overview.adoc#academic-honesty, Academic Honesty>> section of the Course Outline.

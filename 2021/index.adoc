@@ -1,0 +1,37 @@
+:page-layout: standard_fork
+:page-title: Year 7 Digital Technologies 2021
+:icons: font
+
+= Year 7 Digital Technologies 2021
+
+==== Canberra Grammar School
+
+Mr Arnold Choi +
+arnold.choi@cgs.act.edu.au
+
+Mr Matthew Pham +
+matthew.pham@cgs.act.edu.au
+
+Mr Matthew Purcell +
+matthew.purcell@cgs.act.edu.au
+
+Mr Michael Zampogna +
+michael.zampogna@cgs.act.edu.au
+
+==== Course Documents
+
+- You can also attend any of the IT tutorials shown below.
+
+- <<course_overview/course_overview.adoc#,Course Outline>>
+
+==== Tutorial Sessions
+
+* Wednesday afternoons from 3:30pm - 5:00pm in SC304
+
+=== Assessment Tasks
+
+==== Semester One
+
+include::semester_one_2021_table.adoc[]
+
+<<semester_one_2021.adoc#, Semester One &mdash; Full Unit Information and Assessment Schedule>>

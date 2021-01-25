@@ -1,0 +1,23 @@
+* Computing Concepts
+** Google Drive Fundamentals
+** Binary Messages
+** Internet Addresses
+** Computational Thinking
+** Algorithm Design
+* Introduction to Programming
+** Calculating things & making decisions
+** Investing strings and loops
+* Mobile App Development (Thunkable)
+** Beginner Tutorials
+** Thunkable Walkthroughs
+** Thunkable Challenges
+** Thunkable Creative Task
+* Mobile App Design (Group Task)
+** Work collaboratively in teams
+** The design process
+*** Define the problem
+*** Describe the app
+*** Inputs, processing and outputs
+*** Screen navigation
+** Create a poster
+** Create a video
