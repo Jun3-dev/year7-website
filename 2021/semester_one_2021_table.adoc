@@ -9,7 +9,7 @@
 {set:cellbgcolor:white}
 .^|*Computing Concepts Quiz*
 .^|Monday 8 February 2021 (Week 2)
-.^|Tuesday March 2 2021 (Week 6)
+.^|In Class, Tuesday 2 March 2021 (Week 6)
 ^.^|30%
 
 .^|*Thunkable Booklet*
