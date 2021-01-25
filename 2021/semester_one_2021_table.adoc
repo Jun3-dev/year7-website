@@ -8,18 +8,18 @@
 
 {set:cellbgcolor:white}
 .^|*Computing Concepts Quiz*
-.^|Monday 8 February 2020 (Week 2)
+.^|Monday 8 February 2021 (Week 2)
 .^|Tuesday March 2 2021 (Week 6)
 ^.^|30%
 
 .^|*Thunkable Booklet*
 .^|Monday 1 March 2021 (Week 6)
-.^|8:45am Tuesday 30 March 2021 (Week 9)
+.^|8:45am, Tuesday 30 March 2021 (Week 9)
 ^.^|40%
 
 .^|*App Design*
 .^|Monday 29 March 2021 (Week 9)
-.^|8:45am Tuesday 25 May (Term 2 Week 6)
+.^|8:45am, Tuesday 25 May 2021 (Term 2 Week 6)
 ^.^|40%
 
 |===
