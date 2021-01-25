@@ -6,7 +6,7 @@
 ** Algorithm Design
 * Introduction to Programming
 ** Calculating things & making decisions
-** Investing strings and loops
+** Investigating strings and loops
 * Mobile App Development (Thunkable)
 ** Beginner Tutorials
 ** Thunkable Walkthroughs
