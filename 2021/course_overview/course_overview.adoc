@@ -57,7 +57,6 @@ This course will use the following materials and resources:
 * BYOD Device
 * Google Chrome
 * Google Drive
-* Grok Learning
 * Code.org
 * Thunkable
 
