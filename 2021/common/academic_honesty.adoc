@@ -19,7 +19,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 * Whiteboarding solutions to problem sets with others using diagrams or pseudocode but not actual code.
 * Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your work for you.
 
-=== Not Reasonable
+=== Not Reasonable a
 
 * Sending someone else a large portion of your source code.
 * Asking a classmate to see his or her solution to a problem before submitting your own.
