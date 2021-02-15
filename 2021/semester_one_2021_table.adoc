@@ -7,7 +7,7 @@
 ^|*Weight*
 
 {set:cellbgcolor:white}
-.^|*Computing Concepts Quiz*
+.^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%205%20Assessment%20Task%20Notification.pdf[Computing Concepts Quiz^]*
 .^|Monday 8 February 2021 (Week 2)
 .^|In Class, Tuesday 2 March 2021 (Week 5)
 ^.^|20%
