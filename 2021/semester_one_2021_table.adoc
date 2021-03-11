@@ -12,7 +12,7 @@
 .^|In Class, Tuesday 2 March 2021 (Week 5)
 ^.^|20%
 
-.^|*Thunkable Booklet*
+.^|*link:s1assessment/Year%207%20Digital%20Technologies%20Term%201%20Week%209%20Assessment%20Task%20Notification.pdf[Thunkable Booklet^]*
 .^|Monday 1 March 2021 (Week 6)
 .^|8:45am, Tuesday 30 March 2021 (Week 9)
 ^.^|40%
