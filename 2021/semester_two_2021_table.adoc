@@ -1,0 +1,26 @@
+[cols="4,5,5,1"]
+|===
+
+^|*Task*
+^|*Published*
+^|*Due*
+^|*Weight*
+
+{set:cellbgcolor:white}
+.^|*Computing Concepts Quiz*
+.^|Monday 26 July 2021 (Week 2)
+.^|In Class, Tuesday 24 August 2021 (Week 6)
+^.^|20%
+
+.^|*App Development*
+.^|Monday 9 August March 2021 (Week 4)
+.^|8:45am, Monday 13 September 2021 (Week 9)
+^.^|40%
+
+.^|*App Design*
+.^|Monday 6 September 2021 (Week 8)
+.^|8:45am, Monday 8 November 2021 +
+ (Term 4 Week 6)
+^.^|40%
+
+|===
