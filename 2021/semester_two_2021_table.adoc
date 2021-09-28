@@ -9,7 +9,7 @@
 {set:cellbgcolor:white}
 .^|*Computing Concepts Quiz*
 .^|Monday 26 July 2021 (Week 2)
-.^|In Class, Tuesday 24 August 2021 (Week 6)
+.^|In Class, Tuesday 7 September 2021 (Week 8)
 ^.^|20%
 
 .^|*App Development*
