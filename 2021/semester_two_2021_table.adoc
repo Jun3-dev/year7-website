@@ -14,7 +14,7 @@
 
 .^|*App Development*
 .^|Monday 9 August March 2021 (Week 4)
-.^|8:45am, Monday 13 September 2021 (Week 9)
+.^|8:45am, Monday 16 October 2021 (Week 2)
 ^.^|40%
 
 .^|*App Design*
